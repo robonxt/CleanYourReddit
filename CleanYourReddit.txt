@@ -1,0 +1,20 @@
+! Title: CleanYourReddit
+! Dev: robonxt
+! Description: Adblock filters for Reddit. Adblock filters for Reddit. Removes Coin Sales, Powerups, Promoted Posts, and other annoyances.
+! Homepage: https://github.com/robonxt/CleanYourReddit
+! Last updated: September 06, 2021
+
+! How to use: https://github.com/gorhill/uBlock/wiki/Filter-lists-from-around-the-web
+
+! Credits: A BIG THANK YOU to [u/Grand_Cup_2419](https://www.reddit.com/user/Grand_Cup_2419/) and the [r/uBlockOrigin](https://www.reddit.com/r/uBlockOrigin/) community for making the internet a safer and cleaner place!
+
+! Following filters are from u/Grand_Cup_2419
+
+! Remove Reddit Live from the dropdown
+www.reddit.com###focus-PublicAccessNetwork
+
+! Remove Reddit PAN from the header
+www.reddit.com##a[href="/rpan/"]
+
+! Obliterate the microtransaction button
+www.reddit.com###COIN_PURCHASE_DROPDOWN_ID
