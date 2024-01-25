@@ -1,6 +1,6 @@
 # CleanYourReddit: collection of web Reddit filters for a cleaner experience
 
-Adblock filters for Reddit. Adblock filters for Reddit. Removes Coin Sales, Powerups, Promoted Posts, and other annoyances.
+Adblock filters for Reddit. Removes Coin Sales, Powerups, Promoted Posts, and other annoyances.
 
 Tested on uBlock Origin on Chrome. May work with other Adblockers and other browsers.
 
